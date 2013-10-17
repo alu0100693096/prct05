@@ -65,7 +65,7 @@ común divisor. Haciendo uso del depurador de ruby detecte el error en el códig
 2. Implemente una clase Ruby para representar los números racionales.
     Cada objeto debe representar un número racional reducido a su mínima expresión.
     Se han de implementar los métodos de instancia que se solicitan a continuación:
-  * `to_s`     # devuelve una cadena con la representación del racional
+  * `to_s`     # devuelve una cadena con la representación cdel racional
   * `suma`     # devuelve un nuevo racional que suma al objeto que invoca el que le pasan como parámetro
   * `resta`    # devuelve un nuevo racional que resta al objeto que invoca el que le pasan como parámetro 
   * `producto` # devuelve un nuevo racional que multiplica al objeto que invoca el que le pasan como parámetro
